@@ -1,26 +1,30 @@
 <p align="center">
   <img src="https://github.com/AngieSiles/AngieSiles/blob/main/img/IMG-20230516-WA0009.jpg" height="500"/>
 </p>
-<h1 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhkODVpaXp3d3BydzAybzUyMzVvMW9qMGU2YnR2ZDNtenZpYm03cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif" width="35"><b>Hi, soy Angie </b> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhkODVpaXp3d3BydzAybzUyMzVvMW9qMGU2YnR2ZDNtenZpYm03cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif" width="35"></h1>
 
+<h1 align="center">
+  <img src="https://media2.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="35">
+  <b>Hi, I'm Angie</b>
+  <img src="https://media2.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="35">
+</h1>
 
+I’m a **tech professional** with a background in **Electronics Engineering** and currently pursuing a **postgraduate degree in Artificial Intelligence**.
 
-Soy una **profesional tecnológica** con formación en **Ingeniería Electrónica**, y  un **posgrado en Inteligencia Artificial**.
-Trabajo como **Ingeniera de Procesos** y también soy **docente universitaria** en la **Universidad de Palermo** y la **UNTDF**, donde estoy vinculada a proyectos de **programación**, **electrónica** y **tecnologías aplicadas**.
+I work as a **Process Engineer** and also teach at **Universidad de Palermo** and **UNTDF**, where I’m involved in projects related to **programming**, **electronics**, and **applied technology**.
 
-Intereses por **IoT**, la **Inteligencia Artificial**, la **Ciencia de Datos**, **Electrónica** de potencia y el desarrollo de **aplicaciones** conectadas a hardware.
+I’m passionate about **IoT**, **Artificial Intelligence**, **Data Science**, **Power Electronics**, and the development of **applications** connected to hardware.
 
-Actualmente aprendiendo:
+### 🌱 Currently learning:
 - Docker 🐳  
 - C# 🔧  
 
-🤝 Me interesa colaborar en proyectos freelance y open source.
+### 🤝 Open to collaborating on:
+- Freelance projects  
+- Open source contributions  
 
-🌄 Fuera del mundo tech, disfruto de:
-- 🧵 Coser
-- 🚴‍♀️ Andar en bicicleta
-- 🥾 Hacer trekking en **Ushuaia**
+### 🌄 Outside of tech, I enjoy:
+- 🧵 Sewing  
+- 🚴‍♀️ Biking  
+- 🥾 Trekking around **Ushuaia** 🇦🇷  
 
-📫 Contactame en: <a href="mailto:angie97.ush@gmail.com">tu.email@example.com</a>
-
-
+### 📫 Contact me at: [angie97.ush@gmail.com](mailto:angie97.ush@gmail.com)
