@@ -21,6 +21,8 @@ I’m passionate about **IoT**, **Artificial Intelligence**, **Data Science**, *
 ### 🤝 Open to collaborating on:
 - Freelance projects  
 - Open source contributions  
+- Research or engineering projects involving **high-voltage pulse generation**, **biomedical circuits**, or **IoT**  
+
 
 ### 🌄 Outside of tech, I enjoy:
 - 🧵 Sewing  
