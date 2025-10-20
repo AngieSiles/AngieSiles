@@ -8,7 +8,7 @@
   <img src="https://media2.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width="35">
 </h1>
 
-I’m a **tech professional** with a background in **Electronics Engineering** and currently pursuing a **postgraduate degree in Artificial Intelligence**.
+I’m a **tech professional** with a background in **Electronics Engineering** and  a **postgraduate degree in Artificial Intelligence**.
 
 I work as a **Process Engineer** and also teach at **Universidad de Palermo** and **UNTDF**, where I’m involved in projects related to **programming**, **electronics**, and **applied technology**.
 
