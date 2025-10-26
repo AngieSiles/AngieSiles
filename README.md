@@ -12,7 +12,7 @@ I’m a tech professional with a background in Electronics Engineering and a pos
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angela-edith-siles-27ba3b155/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angie97.ush@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/angela-edith-siles-27ba3b155/](https://www.linkedin.com/in/angela-edith-siles-27ba3b155/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angie97.ush@gmail.com) 
 <div align="center">
 
 # 💻 Tech Stack:
